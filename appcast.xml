@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MacScapes</title>
+        <item>
+            <title>1.6.1</title>
+            <pubDate>Sun, 11 Oct 2026 16:37:46 -0400</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/graden-grech/macscapes-updates/releases/download/v1.6.1/MacScapes-1.6.1.tar.gz" length="4963687" type="application/octet-stream" sparkle:edSignature="c07voNxUD8oxkqIGwxEF+9nDjeQ6r3qYeeeS5dDrcTgGzc0tDFwFho9zonGL0fHRZHo12zoq2uVG8BOk28mVCQ=="/>
+        </item>
+    </channel>
+</rss>
